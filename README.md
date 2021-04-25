@@ -1,5 +1,5 @@
 # docker_apache_php
-Docker image for using apache + php7. You can copy your website to the container.
+Docker image for using apache 2.4.46 + php 7.4.15. You can copy your website to the container.
 
 **How to run it on your computer?**
 - create docker image, for example by cmd
